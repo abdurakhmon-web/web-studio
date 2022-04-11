@@ -501,7 +501,7 @@ h4{
         padding: 15px 20px;
     }
 }
-@media (max-width: 350px){
+@media (max-width: 399px){
    .navbar-tel{
        display: none;
    }
